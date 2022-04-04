@@ -1,0 +1,15 @@
+.prime-video {
+  width: 100%;
+}
+.bg-container {
+  height: 100vh;
+  padding:26px;
+}
+.movies-container {
+  background: #000000;
+  padding: 40px;
+}
+.heading{
+    color:#ffffff;
+    font-size:22px;
+}
